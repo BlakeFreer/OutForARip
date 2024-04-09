@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "outforarip"
+version = "0.1.0"
+description = "Data processing scripts for vehicle sensor data."
+authors = ["BlakeFreer <bkfreer10@gmail.com>"]
+packages = [{include="ofar"}]
+readme = "README.md"
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
