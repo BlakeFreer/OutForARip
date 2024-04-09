@@ -1,5 +1,5 @@
-# Shadow
+# Out For a Rip
 
 ## Description
 
-An OBD-II, GPS, and IMU logger, along with data processing scripts.
+A vehicle data logger and associated data processing scripts.
